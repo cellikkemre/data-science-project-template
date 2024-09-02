@@ -1,4 +1,3 @@
-# data-science-project-template
 project-name/
 ├── README.md             # General information about the project
 ├── data/
