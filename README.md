@@ -1,3 +1,4 @@
+```
 project-name/
 ├── README.md             # General information about the project
 ├── data/
@@ -17,3 +18,4 @@ project-name/
 ├── requirements.txt      # List of required Python packages
 ├── .gitignore            # Specifies files and directories to be ignored by Git
 └── LICENSE               # License file (preferably MIT)
+```
